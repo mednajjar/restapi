@@ -1,4 +1,4 @@
-#@myapi/restapi
+# @myapi/restapi
 
 🏗 Personal CLI to bootstrap new restapi
 Installation & Usage
