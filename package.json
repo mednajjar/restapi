@@ -1,6 +1,6 @@
 {
   "name": "@myapi/restapi",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "Restfull api for react & angular",
   "main": "src/index.js",
   "bin": "bin/create-project",
