@@ -1,14 +1,15 @@
-@myapi/restapi
+#@myapi/restapi
 
 🏗 Personal CLI to bootstrap new restapi
 Installation & Usage
 
 1- npm i @myapi/restapi
 # then
-npm init @myapi/restapi --install
+2- npm init @myapi/restapi --install
 # or
-npm install -g @myapi/restapi
-create-project
+1- npm install -g @myapi/restapi
+
+2- create-project
 
 License
 
