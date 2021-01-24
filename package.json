@@ -1,0 +1,36 @@
+{
+  "name": "@myapi/restapi",
+  "version": "1.0.6",
+  "description": "Restfull api for react & angular",
+  "main": "src/index.js",
+  "bin": "bin/create-project",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "create-project"
+  ],
+  "author": "Med-Najjar",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "chalk": "^4.1.0",
+    "covgen": "^3.1.4",
+    "esm": "^3.2.25",
+    "execa": "^5.0.0",
+    "inquirer": "^7.3.3",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0",
+    "spdx-license-list": "^6.3.0"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "templates/"
+  ]
+}
